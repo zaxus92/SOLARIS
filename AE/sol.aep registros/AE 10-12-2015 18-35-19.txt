@@ -1,0 +1,12 @@
+El registro de procesamiento de Adobe After Effects v13.5 Windows 64 para el procesamiento del proyecto "sol.aep"
+
+ se inició en 10/12/2015 a las 18:35:19
+
+  10/12/2015 18:35:19: Iniciando composición "Star Map".
+
+  Salida a: J:\RED\CLASE\3D\2º\NoEntregar\PrimeraPersona01_v.josu-02\Assets\Escenas2D\Assets2D\Materials\lava.mov    10/12/2015 18:55:24: Composición finalizada "Star Map".
+
+
+  Tiempo total transc.: 20 min, 5 s
+Registro cerrado en 10/12/2015 a las 18:55:25
+
